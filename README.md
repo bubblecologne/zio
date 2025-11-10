@@ -185,7 +185,7 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/ser
 * [Vivid Money](https://vivid.money)
 * [Zalando](https://zalando.com/)
 * [Zooz](https://zooz.com/)
-
+* [truckbrokers](https://truckbrokers.de/)
 # Sponsors
 
 [![Ziverge][Image-Ziverge]][Link-Ziverge]
